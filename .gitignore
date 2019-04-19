@@ -40,3 +40,8 @@ xdag
 cmake-build-debug
 cmake-build-release
 .idea
+
+#vscode project
+.cmd.history
+.vscode/
+build/
